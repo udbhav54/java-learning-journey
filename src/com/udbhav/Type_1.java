@@ -8,3 +8,5 @@ public class Type_1 {
         System.out.println("Good Morning!!");
     }
 }
+
+// Method with no parameter and no return type
